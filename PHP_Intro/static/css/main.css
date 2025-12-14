@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    height: 50px;
+    background-color: brown;
+    padding: 5px;
+    text-align: center;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.menu a:hover{
+    text-decoration: underline;
+    color: white;
+    
+
+}
